@@ -1,0 +1,58 @@
+body {
+    background: rgb(215, 222, 231);
+}
+#logo {
+    height: 7vh;
+    position: relative;
+    top: 20px;
+}
+nav {
+    height: 10vh;
+    display: flex;
+    overflow: hidden;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: baseline;
+}
+a {
+    text-decoration: none;
+    color: black;
+}
+
+h4 {
+    overflow-wrap: break-word;
+}
+a {
+    font-size: 12px; 
+}
+button {
+    border-radius: 20px;
+    border: 1px solid black;
+    padding:7px 15px;
+}
+#in-logo {
+    height: 5vh;
+    position: relative;
+    top: 17px;
+}
+main {
+    text-align: center;
+}
+#button2 {
+    background: rgb(250, 67, 67);
+    border: none;
+    color: white;
+    padding: 15px 30px;
+}
+#owl {
+    height: 7vh;
+    padding-top: 25vh;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+}
+p {
+    text-align: center;
+    padding: 0 27vw;
+}
